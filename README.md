@@ -71,4 +71,5 @@ Excel (advanced formulas, no VBA) · MySQL Workbench · Power BI Desktop (DAX me
 ## Author
 Built independently by **Pratul** **kumar** as a self-directed portfolio project (MBA graduate,
 IT & Marketing specialization) to demonstrate hands-on Excel, SQL, and Power BI skills.
- **Contact_Details** [www.linkedin.com/in/pratultomar89] · [Pratultomar046@gmail.com]
+ **Contact_Details**
+ [www.linkedin.com/in/pratultomar89] · [Pratultomar046@gmail.com]
