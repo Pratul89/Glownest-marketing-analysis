@@ -69,6 +69,6 @@ column averages) for every KPI:
 Excel (advanced formulas, no VBA) · MySQL Workbench · Power BI Desktop (DAX measures)
 
 ## Author
-Built independently by **Pratul** as a self-directed portfolio project (MBA graduate,
+Built independently by **Pratul** **kumar** as a self-directed portfolio project (MBA graduate,
 IT & Marketing specialization) to demonstrate hands-on Excel, SQL, and Power BI skills.
-[LinkedIn link] · [Email]
+  [www.linkedin.com/in/pratultomar89] · [Pratultomar046@gmail.com]
